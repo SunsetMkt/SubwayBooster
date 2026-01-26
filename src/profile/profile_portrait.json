@@ -163,6 +163,10 @@
         "id": "siwoo_graffiti_portrait",
         "isSeen": true
       },
+      "holly_graffiti_portrait": {
+        "id": "holly_graffiti_portrait",
+        "isSeen": true
+      },
       "freshsnow_graffiti_portrait": {
         "id": "freshsnow_graffiti_portrait",
         "isSeen": true
@@ -323,12 +327,16 @@
         "id": "eightball_jake_illustration_portrait",
         "isSeen": true
       },
-      "holly_graffiti_portrait": {
-        "id": "holly_graffiti_portrait",
+      "mia_graffiti_portrait": {
+        "id": "mia_graffiti_portrait",
         "isSeen": true
       },
       "mrgobbles_illustration_portrait": {
         "id": "mrgobbles_illustration_portrait",
+        "isSeen": true
+      },
+      "seansnow_illustration_portrait": {
+        "id": "seansnow_illustration_portrait",
         "isSeen": true
       }
     }

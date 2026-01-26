@@ -2820,6 +2820,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "purrfectionOutfit"
             }
           ]
         }
@@ -3117,6 +3120,62 @@
           ]
         }
       },
+      "frankNoir": {
+        "value": {
+          "id": "frankNoir",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "holly": {
+        "value": {
+          "id": "holly",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "blobbusterOutfit"
+            }
+          ]
+        }
+      },
+      "seanSnow": {
+        "value": {
+          "id": "seanSnow",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "mia": {
+        "value": {
+          "id": "mia",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "alpineAmourOutfit"
+            }
+          ]
+        }
+      },
+      "rosalita": {
+        "value": {
+          "id": "rosalita",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
       "amongUsBlack": {
         "value": {
           "id": "amongUsBlack",
@@ -3347,16 +3406,6 @@
           ]
         }
       },
-      "frankNoir": {
-        "value": {
-          "id": "frankNoir",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            }
-          ]
-        }
-      },
       "gabrielRadInRedOutfit": {
         "value": {
           "id": "gabrielRadInRedOutfit",
@@ -3383,19 +3432,6 @@
           "ownedOutfits": [
             {
               "value": "default"
-            }
-          ]
-        }
-      },
-      "holly": {
-        "value": {
-          "id": "holly",
-          "ownedOutfits": [
-            {
-              "value": "default"
-            },
-            {
-              "value": "blobbusterOutfit"
             }
           ]
         }

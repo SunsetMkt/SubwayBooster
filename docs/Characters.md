@@ -249,18 +249,21 @@
 | Dynamike | `mrGobbles` |
 | Poco | `rosie` |
 | Max | `ballerinaLatticina` |
-| Alma Brava | `amongUsBlack` |
-| Mateo | `amongUsCyan` |
-| Crewmate Jake | `amongUsGreen` |
-| Crewmate Tricky | `amongUsRed` |
-| Crewmate Spike | `amongUsRose` |
-| Crewmate King | `amongUsYellow` |
-| Crewmate Tasha | `asherSplasherOutfit` |
-| Crewmate Guard | `bertaSummerEleganzaOutfit` |
-| Joo Won | `bonnieThumperOutfit` |
-| Si Woo | `bsBeardedGuy` |
-| Mr. Gobbles | `bsElegantGirl` |
-| Rosie | `bsFastGirl` |
-| Ballerina Latticina | `bsPointyGuy` |
-| Frank Noir | None |
-| Holly | None |
+| Alma Brava | `frankNoir` |
+| Mateo | `holly` |
+| Crewmate Jake | `seanSnow` |
+| Crewmate Tricky | `mia` |
+| Crewmate Spike | `rosalita` |
+| Crewmate King | `amongUsBlack` |
+| Crewmate Tasha | `amongUsCyan` |
+| Crewmate Guard | `amongUsGreen` |
+| Joo Won | `amongUsRed` |
+| Si Woo | `amongUsRose` |
+| Mr. Gobbles | `amongUsYellow` |
+| Rosie | `asherSplasherOutfit` |
+| Ballerina Latticina | `bertaSummerEleganzaOutfit` |
+| Frank Noir | `bonnieThumperOutfit` |
+| Holly | `bsBeardedGuy` |
+| Sean Snow | `bsElegantGirl` |
+| Mia | `bsFastGirl` |
+| Rosalita | `bsPointyGuy` |

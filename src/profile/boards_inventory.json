@@ -3567,6 +3567,22 @@
           }
         }
       },
+      "fireStarter": {
+        "value": {
+          "id": "fireStarter",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
       "frankmobile": {
         "value": {
           "id": "frankmobile",
@@ -3599,6 +3615,29 @@
       "roadRage": {
         "value": {
           "id": "roadRage",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "turboLove": {
+        "value": {
+          "id": "turboLove",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "doubleJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "xtraCool": {
+        "value": {
+          "id": "xtraCool",
           "ownedUpgrades": {
             "default": {
               "value": true

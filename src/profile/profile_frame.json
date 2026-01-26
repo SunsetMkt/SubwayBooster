@@ -55,6 +55,10 @@
         "id": "pride_frame",
         "isSeen": true
       },
+      "glorx_frame": {
+        "id": "glorx_frame",
+        "isSeen": true
+      },
       "birthday2024_frame": {
         "id": "birthday2024_frame",
         "isSeen": true
@@ -67,12 +71,12 @@
         "id": "club_frame",
         "isSeen": true
       },
-      "glorx_frame": {
-        "id": "glorx_frame",
-        "isSeen": true
-      },
       "movieslate_frame": {
         "id": "movieslate_frame",
+        "isSeen": true
+      },
+      "winter_frame": {
+        "id": "winter_frame",
         "isSeen": true
       }
     }

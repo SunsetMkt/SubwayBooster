@@ -10,22 +10,25 @@
       "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S112",
+    "newSeasonPopupShownForID": "season_S113",
     "localMailsSeenEntries": {
-      "s112_hollywood_challenges": "1970-01-01T00:00:00Z",
-      "s112_hollywood_floorislava": "1970-01-01T00:00:00Z",
-      "s112_hollywood_next_season": "1970-01-01T00:00:00Z",
-      "s112_hollywood_one_run": "1970-01-01T00:00:00Z",
-      "s112_hollywood_one_run2": "1970-01-01T00:00:00Z",
-      "s112_hollywood_plantinvasion": "1970-01-01T00:00:00Z",
-      "s112_hollywood_quests": "1970-01-01T00:00:00Z",
-      "s112_hollywood_season_challenge": "1970-01-01T00:00:00Z",
-      "s112_hollywood_seasonhunt": "1970-01-01T00:00:00Z",
-      "s112_hollywood_surferpass": "1970-01-01T00:00:00Z",
-      "s112_hollywood_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s112_hollywood_updateGame_android": "1970-01-01T00:00:00Z",
-      "s112_hollywood_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s112_hollywood_welcome": "1970-01-01T00:00:00Z"
+      "s113_winterxtreme_prereg_subcity_start": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_challenges": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_floorislava": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_next_season": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_one_run": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_one_run2": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_plantinvasion": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_presday_freebie": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_quests": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_repday_freebie": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_season_challenge": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_seasonhunt": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_surferpass": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_updateGame_android": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -68,57 +71,62 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S112_newStuff": {
+      "S113_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S112_newStuff_season_pass": {
+      "S113_newStuff_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S112_crew_bonus": {
+      "S113_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S112_crew_bonus_season_pass": {
+      "S113_crew_bonus_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "franknoir_bundle": {
+      "seansnow_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "starstruck_bundle": {
+      "myths_of_love_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "giftgrifter_deluxe_bundle": {
+      "holly_deluxe_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "frank_star_bundle": {
+      "valentina_deluxe_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "showtime_bundle": {
+      "snowballer_starter_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "infinity_bundle": {
+      "puffer_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "dashingduo_bundle": {
+      "sportsquad_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "beautifulBeasts_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
