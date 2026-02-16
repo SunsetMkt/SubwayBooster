@@ -55,6 +55,10 @@
         "id": "rochellerebelle_graffiti_portrait",
         "isSeen": true
       },
+      "boombot_illustration_portrait": {
+        "id": "boombot_illustration_portrait",
+        "isSeen": true
+      },
       "boombot_portrait": {
         "id": "boombot_portrait",
         "isSeen": true
@@ -65,6 +69,10 @@
       },
       "tricky_graffiti_portrait": {
         "id": "tricky_graffiti_portrait",
+        "isSeen": true
+      },
+      "tricky_illustration_portrait": {
+        "id": "tricky_illustration_portrait",
         "isSeen": true
       },
       "tricky_portrait": {
@@ -115,12 +123,12 @@
         "id": "jake_portrait",
         "isSeen": true
       },
-      "ella_portrait": {
-        "id": "ella_portrait",
-        "isSeen": true
-      },
       "king_portrait": {
         "id": "king_portrait",
+        "isSeen": true
+      },
+      "ella_portrait": {
+        "id": "ella_portrait",
         "isSeen": true
       },
       "dino_portrait": {
@@ -207,12 +215,16 @@
         "id": "missmaia_illustration_portrait",
         "isSeen": true
       },
-      "onihime_illustration_portrait": {
-        "id": "onihime_illustration_portrait",
+      "seansnow_illustration_portrait": {
+        "id": "seansnow_illustration_portrait",
         "isSeen": true
       },
       "onihime_chillbilloutfit_illustration_portrait": {
         "id": "onihime_chillbilloutfit_illustration_portrait",
+        "isSeen": true
+      },
+      "onihime_illustration_portrait": {
+        "id": "onihime_illustration_portrait",
         "isSeen": true
       },
       "vivienne_hollywoodglamoutfit_portrait": {
@@ -295,6 +307,10 @@
         "id": "stella_graffiti_portrait",
         "isSeen": true
       },
+      "mia_graffiti_portrait": {
+        "id": "mia_graffiti_portrait",
+        "isSeen": true
+      },
       "amongusred_illustration_portrait": {
         "id": "amongusred_illustration_portrait",
         "isSeen": true
@@ -327,16 +343,12 @@
         "id": "eightball_jake_illustration_portrait",
         "isSeen": true
       },
-      "mia_graffiti_portrait": {
-        "id": "mia_graffiti_portrait",
+      "lorcan_graffiti_portrait": {
+        "id": "lorcan_graffiti_portrait",
         "isSeen": true
       },
       "mrgobbles_illustration_portrait": {
         "id": "mrgobbles_illustration_portrait",
-        "isSeen": true
-      },
-      "seansnow_illustration_portrait": {
-        "id": "seansnow_illustration_portrait",
         "isSeen": true
       }
     }

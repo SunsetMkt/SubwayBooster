@@ -2090,6 +2090,9 @@
             },
             {
               "value": "goldencrushOutfit"
+            },
+            {
+              "value": "luckyKoiOutfit"
             }
           ]
         }
@@ -2730,6 +2733,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "fireBirdOutfit"
             }
           ]
         }
@@ -3166,9 +3172,19 @@
           ]
         }
       },
-      "rosalita": {
+      "lorcan": {
         "value": {
-          "id": "rosalita",
+          "id": "lorcan",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "horse": {
+        "value": {
+          "id": "horse",
           "ownedOutfits": [
             {
               "value": "default"
@@ -3489,6 +3505,16 @@
       "raniUrbanVibesOutfit": {
         "value": {
           "id": "raniUrbanVibesOutfit",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "rosalita": {
+        "value": {
+          "id": "rosalita",
           "ownedOutfits": [
             {
               "value": "default"

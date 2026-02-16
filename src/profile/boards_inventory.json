@@ -3567,17 +3567,11 @@
           }
         }
       },
-      "fireStarter": {
+      "roadRage": {
         "value": {
-          "id": "fireStarter",
+          "id": "roadRage",
           "ownedUpgrades": {
             "default": {
-              "value": true
-            },
-            "highSpeed": {
-              "value": true
-            },
-            "superJump": {
               "value": true
             }
           }
@@ -3612,9 +3606,25 @@
           }
         }
       },
-      "roadRage": {
+      "fireStarter": {
         "value": {
-          "id": "roadRage",
+          "id": "fireStarter",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "xtraCool": {
+        "value": {
+          "id": "xtraCool",
           "ownedUpgrades": {
             "default": {
               "value": true
@@ -3635,11 +3645,40 @@
           }
         }
       },
-      "xtraCool": {
+      "goldRush": {
         "value": {
-          "id": "xtraCool",
+          "id": "goldRush",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "luckyFish": {
+        "value": {
+          "id": "luckyFish",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "highSpeed": {
+              "value": true
+            }
+          }
+        }
+      },
+      "theGreenFlame": {
+        "value": {
+          "id": "theGreenFlame",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            },
+            "doubleJump": {
               "value": true
             }
           }

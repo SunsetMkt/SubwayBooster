@@ -10,25 +10,25 @@
       "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S113",
+    "newSeasonPopupShownForID": "season_S114",
     "localMailsSeenEntries": {
       "s113_winterxtreme_prereg_subcity_start": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_challenges": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_floorislava": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_next_season": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_one_run": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_one_run2": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_plantinvasion": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_presday_freebie": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_quests": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_repday_freebie": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_season_challenge": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_seasonhunt": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_surferpass": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_updateGame_android": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s113_winterxtreme_welcome": "1970-01-01T00:00:00Z"
+      "s113_winterxtreme_prereg_subcity_m1": "1970-01-01T00:00:00Z",
+      "s113_winterxtreme_prereg_subcity_m2": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_challenges": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_floorislava": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_next_season": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_one_run2": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_plantinvasion": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_presday_freebie": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_quests": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_season_challenge": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_seasonhunt": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_surferpass": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_updateGame_android": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s114_londonluckycreatures_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -71,62 +71,67 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S113_newStuff": {
+      "S114_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S113_newStuff_season_pass": {
+      "S114_newStuff_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S113_crew_bonus": {
+      "S114_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S113_crew_bonus_season_pass": {
+      "S114_crew_bonus_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "seansnow_bundle_promo": {
+      "lorcan_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "myths_of_love_bundle_promo": {
+      "first_four_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "holly_deluxe_bundle_promo": {
+      "faithful_friends_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "valentina_deluxe_bundle_promo": {
+      "rebecaroar_deluxe_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "snowballer_starter_bundle_promo": {
+      "rocky_deluxe_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "puffer_bundle_promo": {
+      "hooved_horned_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "sportsquad_bundle_promo": {
+      "dragon_starter_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "beautifulBeasts_bundle_promo": {
+      "snake_starter_bundle_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "masquerade_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

@@ -300,6 +300,9 @@
 | Chill Out | `chillOut` |
 | Candy Crash | `candyCrash` |
 | Mean Green Machine | `meanGreenMachine` |
-| Road Rage | None |
-| Frankmobile | None |
-| Perfectoplasma | None |
+| Road Rage | `roadRage` |
+| Frankmobile | `frankmobile` |
+| Perfectoplasma | `perfectoplasma` |
+| Fire Starter | `fireStarter` |
+| Xtra Cool | `xtraCool` |
+| Turbo Love | `turboLove` |

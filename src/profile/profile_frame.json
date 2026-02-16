@@ -43,6 +43,10 @@
         "id": "oxford_red_frame",
         "isSeen": true
       },
+      "winter_frame": {
+        "id": "winter_frame",
+        "isSeen": true
+      },
       "brawlstars_gems_frame": {
         "id": "brawlstars_gems_frame",
         "isSeen": true
@@ -75,8 +79,64 @@
         "id": "movieslate_frame",
         "isSeen": true
       },
-      "winter_frame": {
-        "id": "winter_frame",
+      "pvp_leaderboard_01_frame": {
+        "id": "pvp_leaderboard_01_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_02_frame": {
+        "id": "pvp_leaderboard_02_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_03_frame": {
+        "id": "pvp_leaderboard_03_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_04_frame": {
+        "id": "pvp_leaderboard_04_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_05_frame": {
+        "id": "pvp_leaderboard_05_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_06_frame": {
+        "id": "pvp_leaderboard_06_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_07_frame": {
+        "id": "pvp_leaderboard_07_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_08_frame": {
+        "id": "pvp_leaderboard_08_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_09_frame": {
+        "id": "pvp_leaderboard_09_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_10_frame": {
+        "id": "pvp_leaderboard_10_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_11_frame": {
+        "id": "pvp_leaderboard_11_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_12_frame": {
+        "id": "pvp_leaderboard_12_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_13_frame": {
+        "id": "pvp_leaderboard_13_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_14_frame": {
+        "id": "pvp_leaderboard_14_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_15_frame": {
+        "id": "pvp_leaderboard_15_frame",
         "isSeen": true
       }
     }
