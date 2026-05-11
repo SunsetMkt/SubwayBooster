@@ -3410,10 +3410,47 @@
           ]
         }
       },
-      "null": {
+      "toaxx": {
         "value": {
-          "id": null,
-          "ownedOutfits": []
+          "id": "toaxx",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "ratak": {
+        "value": {
+          "id": "ratak",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "radioRativeOutfit"
+            }
+          ]
+        }
+      },
+      "red": {
+        "value": {
+          "id": "red",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "chuck": {
+        "value": {
+          "id": "chuck",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
         }
       }
     }
