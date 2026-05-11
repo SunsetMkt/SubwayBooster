@@ -7,12 +7,12 @@ item_data_list = {}
 
 for item in data:
     item_id = item["id"]
-    item2s = item.get("outfits", "none")
+    item2s = item.get("outfits") or "none"
 
     item2_data = []
     if item2s != "none":
-        for item2 in item2s:
-            item2_id = item2["id"]
+        for outfit in item2s:
+            item2_id = outfit["id"]
             item2_data.append({"value": item2_id})
 
     item_data_list[item_id] = {"value": {"id": item_id, "ownedOutfits": item2_data}}
