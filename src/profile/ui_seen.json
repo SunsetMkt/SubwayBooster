@@ -10,26 +10,26 @@
       "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S117",
+    "newSeasonPopupShownForID": "season_S118",
     "localMailsSeenEntries": {
-      "s117_sakuratokyo_challenges": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_earthday": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_familyfun": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_floorislava": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_gamescombr": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_next_season": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_plantinvasion": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_quests": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_season_challenge": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_seasonhunt": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_showdown": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_soda_rush": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_surferpass": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_ukulele": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_updateGame_android": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s117_sakuratokyo_welcome": "1970-01-01T00:00:00Z"
+      "s118_copenhagensuperrunner_birthdayboard": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_challenges": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_floorislava": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_next_season": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_onerun": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_plantinvasion": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_quests": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_season_challenge": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_seasonhunt": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_showdown": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_soda_rush_1": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_soda_rush_2": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_soda_rush_3": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_surferpass": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_updateGame_android": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s118_copenhagensuperrunner_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -72,67 +72,57 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S117_newStuff": {
+      "S118_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S117_newStuff_season_pass": {
+      "S118_newStuff_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S117_crew_bonus": {
+      "S118_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S117_crew_bonus_season_pass": {
+      "S118_crew_bonus_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "tsukichan_bundle_promo": {
+      "toaxx_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "shinjuku_shenanigans_bundle_promo": {
+      "angry_birds_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "oni_hime_deluxe_bundle_promo": {
+      "super_runner_super_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "devil_wears_vivienne_bundle_promo": {
+      "slime_deluxe_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "lucky_koi_starter_bundle_promo": {
+      "slam_dunk_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "board_awakens_bundle_promo": {
+      "super_runner_starter_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "captain_kaiju_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "school_friends_bundle_promo": {
-        "lastSeenTime": "1970-01-01T00:00:00Z",
-        "removeAtTime": "9999-12-31T00:00:00Z",
-        "opened": true
-      },
-      "getloud_bundle_promo": {
+      "catrine_starter_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

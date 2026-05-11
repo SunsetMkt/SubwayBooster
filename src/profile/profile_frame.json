@@ -27,10 +27,6 @@
         "id": "earthday_frame",
         "isSeen": true
       },
-      "oxford_green_frame": {
-        "id": "oxford_green_frame",
-        "isSeen": true
-      },
       "default_frame": {
         "id": "default_frame",
         "isSeen": true
@@ -43,20 +39,8 @@
         "id": "summer_frame",
         "isSeen": true
       },
-      "oxford_red_frame": {
-        "id": "oxford_red_frame",
-        "isSeen": true
-      },
       "winter_frame": {
         "id": "winter_frame",
-        "isSeen": true
-      },
-      "easter_frame": {
-        "id": "easter_frame",
-        "isSeen": true
-      },
-      "brawlstars_gems_frame": {
-        "id": "brawlstars_gems_frame",
         "isSeen": true
       },
       "plant_frame": {
@@ -71,10 +55,6 @@
         "id": "glorx_frame",
         "isSeen": true
       },
-      "birthday2024_frame": {
-        "id": "birthday2024_frame",
-        "isSeen": true
-      },
       "lava_frame": {
         "id": "lava_frame",
         "isSeen": true
@@ -83,8 +63,92 @@
         "id": "club_frame",
         "isSeen": true
       },
+      "blob_frame": {
+        "id": "blob_frame",
+        "isSeen": true
+      },
+      "oxford_green_frame": {
+        "id": "oxford_green_frame",
+        "isSeen": true
+      },
       "koi_frame": {
         "id": "koi_frame",
+        "isSeen": true
+      },
+      "oxford_red_frame": {
+        "id": "oxford_red_frame",
+        "isSeen": true
+      },
+      "brawlstars_gems_frame": {
+        "id": "brawlstars_gems_frame",
+        "isSeen": true
+      },
+      "birthday2024_frame": {
+        "id": "birthday2024_frame",
+        "isSeen": true
+      },
+      "easter_frame": {
+        "id": "easter_frame",
+        "isSeen": true
+      },
+      "collection_revamp_01_frame": {
+        "id": "collection_revamp_01_frame",
+        "isSeen": true
+      },
+      "collection_revamp_02_frame": {
+        "id": "collection_revamp_02_frame",
+        "isSeen": true
+      },
+      "collection_revamp_03_frame": {
+        "id": "collection_revamp_03_frame",
+        "isSeen": true
+      },
+      "collection_revamp_04_frame": {
+        "id": "collection_revamp_04_frame",
+        "isSeen": true
+      },
+      "collection_revamp_05_frame": {
+        "id": "collection_revamp_05_frame",
+        "isSeen": true
+      },
+      "collection_revamp_06_frame": {
+        "id": "collection_revamp_06_frame",
+        "isSeen": true
+      },
+      "collection_revamp_07_frame": {
+        "id": "collection_revamp_07_frame",
+        "isSeen": true
+      },
+      "collection_revamp_08_frame": {
+        "id": "collection_revamp_08_frame",
+        "isSeen": true
+      },
+      "collection_revamp_09_frame": {
+        "id": "collection_revamp_09_frame",
+        "isSeen": true
+      },
+      "collection_revamp_10_frame": {
+        "id": "collection_revamp_10_frame",
+        "isSeen": true
+      },
+      "collection_revamp_11_frame": {
+        "id": "collection_revamp_11_frame",
+        "isSeen": true
+      },
+      "collection_revamp_12_frame": {
+        "id": "collection_revamp_12_frame",
+        "isSeen": true
+      },
+      "collection_revamp_13_frame": {
+        "id": "collection_revamp_13_frame",
+        "isSeen": true
+      },
+      "collection_revamp_14_frame": {
+        "id": "collection_revamp_14_frame",
+        "isSeen": true
+      },
+      "collection_revamp_15_frame": {
+        "id": "collection_revamp_15_frame",
         "isSeen": true
       },
       "movieslate_frame": {
@@ -97,6 +161,10 @@
       },
       "pvp_leaderboard_02_frame": {
         "id": "pvp_leaderboard_02_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_03_frame": {
+        "id": "pvp_leaderboard_03_frame",
         "isSeen": true
       },
       "stpatrick_frame": {

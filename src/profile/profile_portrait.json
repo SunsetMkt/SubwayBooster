@@ -79,6 +79,10 @@
         "id": "tricky_portrait",
         "isSeen": true
       },
+      "tricky_superrunner_illustration_portrait": {
+        "id": "tricky_superrunner_illustration_portrait",
+        "isSeen": true
+      },
       "yutani_graffiti_portrait": {
         "id": "yutani_graffiti_portrait",
         "isSeen": true
@@ -129,6 +133,10 @@
       },
       "jake_portrait": {
         "id": "jake_portrait",
+        "isSeen": true
+      },
+      "jake_superrunner_illustration_portrait": {
+        "id": "jake_superrunner_illustration_portrait",
         "isSeen": true
       },
       "king_portrait": {

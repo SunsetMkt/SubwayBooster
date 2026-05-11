@@ -4,14 +4,13 @@
     "lastSaved": "1970-01-01T00:00:00Z",
     "chainOffers": {},
     "completedChainOffers": [
-      "s116_chain_offers_promo_3",
-      "s116_keys150_chain_offers_promo",
-      "s117_chain_offers_promo_1",
-      "s117_chain_offers_promo_2",
-      "s117_chain_offers_promo_3",
-      "s117_keys200_chain_offers_promo",
-      "s117_keys75_chain_offers_promo",
-      "s117_keys150_chain_offers_promo"
+      "s117_keys150_chain_offers_promo",
+      "s118_chain_offers_promo_1",
+      "s118_chain_offers_promo_2",
+      "s118_chain_offers_promo_3",
+      "s118_keys75_chain_offers_promo",
+      "s118_keys200_chain_offers_promo",
+      "s118_keys150_2_chain_offers_promo"
     ]
   }
 }

@@ -30,6 +30,42 @@
           "value": 3
         },
         "contextType": 1
+      },
+      "permanent_score_multiplier_collection_revamp_1a": {
+        "value": {
+          "id": "permanent_score_multiplier_collection_revamp_1a",
+          "type": 2,
+          "subType": 3,
+          "value": 1
+        },
+        "contextType": 1
+      },
+      "permanent_score_multiplier_collection_revamp_1b": {
+        "value": {
+          "id": "permanent_score_multiplier_collection_revamp_1b",
+          "type": 2,
+          "subType": 3,
+          "value": 1
+        },
+        "contextType": 1
+      },
+      "permanent_score_multiplier_collection_revamp_1c": {
+        "value": {
+          "id": "permanent_score_multiplier_collection_revamp_1c",
+          "type": 2,
+          "subType": 3,
+          "value": 1
+        },
+        "contextType": 1
+      },
+      "permanent_score_multiplier_collection_revamp_1d": {
+        "value": {
+          "id": "permanent_score_multiplier_collection_revamp_1d",
+          "type": 2,
+          "subType": 3,
+          "value": 1
+        },
+        "contextType": 1
       }
     },
     "currencyPickupModifiers": {

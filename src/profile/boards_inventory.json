@@ -3762,19 +3762,6 @@
           }
         }
       },
-      "foxTrotter": {
-        "value": {
-          "id": "foxTrotter",
-          "ownedUpgrades": {
-            "default": {
-              "value": true
-            },
-            "glider": {
-              "value": true
-            }
-          }
-        }
-      },
       "fastFurward": {
         "value": {
           "id": "fastFurward",
@@ -3796,6 +3783,68 @@
           "id": "cathleticRide",
           "ownedUpgrades": {
             "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "foxTrotter": {
+        "value": {
+          "id": "foxTrotter",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            }
+          }
+        }
+      },
+      "14thBirthday": {
+        "value": {
+          "id": "14thBirthday",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "bombBastic": {
+        "value": {
+          "id": "bombBastic",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            }
+          }
+        }
+      },
+      "ratTrap": {
+        "value": {
+          "id": "ratTrap",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "superJump": {
+              "value": true
+            }
+          }
+        }
+      },
+      "sewerSurfer": {
+        "value": {
+          "id": "sewerSurfer",
+          "ownedUpgrades": {
+            "default": {
+              "value": true
+            },
+            "glider": {
+              "value": true
+            },
+            "superJump": {
               "value": true
             }
           }

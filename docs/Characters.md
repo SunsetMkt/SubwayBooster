@@ -273,5 +273,9 @@
 | Enzo | `enzo` |
 | Sprinkle | `sprinkle` |
 | Bunny Betty | `bunnyBetty` |
-| Tsuki-Chan | `tsukiChan` |
+| Tsuki Chan | `tsukiChan` |
 | Kaito | `kaito` |
+| Toaxx | None |
+| Ratak | None |
+| Red | None |
+| Chuck | None |
