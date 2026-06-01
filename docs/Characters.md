@@ -6,7 +6,7 @@
 | Yutani | `yutani` |
 | Spike | `bsPointyGuy` |
 | Frank | `frank` |
-| Ella | `ella` |
+| Ella(formerly known asFrizzy) | `ella` |
 | King | `king` |
 | Ninja | `ninja` |
 | Lucy | `lucy` |
@@ -82,200 +82,202 @@
 | Alba | `alba` |
 | Amy | `amy` |
 | Festive Fresh | `festiveFresh` |
-| Monkbot | `monkbot` |
-| Ming | `ming` |
-| Liu | `liu` |
-| Callum | `callum` |
-| Jack | `jack` |
-| Tom | `nflpaTomBrady` |
-| Dak | `nflpaDakPrescott` |
-| Lamar | `nflpaLamarJackson` |
-| Saquon | `nflpaSaquonBarkley` |
-| Patrick | `nflpaPatrickMahomes` |
-| Odell | `nflpaOdellBeckhamJr` |
-| Tankbot | `tankbot` |
-| Cathy | `cathy` |
-| Noel | `noel` |
-| Morgan | `morgan` |
-| Andy | `andy` |
-| Festive Jake | `festiveJake` |
-| Festive Tricky | `festiveTricky` |
-| Festive Yutani | `festiveYutani` |
-| Festive Spike | `festiveSpike` |
-| Festive Frank | `festiveFrank` |
-| Frankette | `frankette` |
-| Spacebot | `spacebot` |
-| Rat | `rat` |
-| Ox | `ox` |
-| Qin | `qin` |
-| Hou | `hou` |
-| Zayn | `zayn` |
-| Darryl | `darryl` |
-| Lana | `lana` |
-| Bonnie | `bonnie` |
-| Buzz | `buzz` |
-| Trym | `trym` |
-| Pride Jake | `prideJake` |
-| Pride Tricky | `prideTricky` |
-| Pride Fresh | `prideFresh` |
-| Pride Yutani | `prideYutani` |
-| Pride Spike | `prideSpike` |
-| Pride Frank | `prideFrank` |
-| Pridebot | `prideBot` |
-| Alexandre | `alexandre` |
-| Parkour Rin | `parkourRin` |
-| Akira | `akira` |
-| Koral | `koral` |
-| Cleo | `cleo` |
-| Taha | `taha` |
-| Bob The Blob | `bobTheBlob` |
-| Mala | `mala` |
-| Phoenix | `phoenix` |
-| Clementine | `clementine` |
-| Gingerbot | `gingerbot` |
-| Hasina | `hasina` |
-| Tiger | `tiger` |
-| Charlie | `charlie` |
-| Pink | `pink` |
-| George | `george` |
-| Dummy | `dummy` |
-| Super Runner Jake | `superRunnerJake` |
-| Super Runner Tricky | `superRunnerTricky` |
-| Pride Miss Maia | `prideMissMaia` |
-| Super Runner Fresh | `superRunnerFresh` |
-| Super Runner Yutani | `superRunnerYutani` |
-| The Burger King | `theBurgerKing` |
-| Moira | `moira` |
-| Zi Hao | `zihao` |
-| Alia | `alia` |
-| Fantasma | `fantasma` |
-| Song Yi | `songYi` |
-| Super Runner Fernando | `fernando` |
-| Elf Jake | `elfJake` |
-| Elf Fresh | `elfFresh` |
-| Elf Yutani | `elfYutani` |
-| Rabbit | `rabbit` |
-| Soul | `soul` |
-| Tutti | `tutti` |
-| Frutti | `frutti` |
-| Spraybot | `spraybot` |
-| Catrine | `catrine` |
-| Rain | `rain` |
-| Alfie | `alfie` |
-| Bruno | `bruno` |
-| Tainá | `taina` |
-| Yutani Harlequin Toad | `yutaniHarlequinToad` |
-| Yuto | `yuto` |
-| Hali | `hali` |
-| Thursday | `thursday` |
-| Outatime Jake | `outatimeJake` |
-| Ji-Yeong | `jiYeong` |
-| J Balvin | `musician` |
-| Vivienne | `vivienne` |
-| Lawrence | `lawrence` |
-| Clockwork Johnny | `clockworkJohnny` |
-| Captain Flash | `captainFlash` |
-| Skye | `skye` |
-| Thunder | `thunder` |
-| Azura | `azura` |
-| Dragon | `dragonyear` |
-| Astra | `astra` |
-| Stella | `stella` |
-| Lucky | `lucky` |
-| Meggan | `meggan` |
-| Red Panda | `redpanda` |
-| Hamza | `hamza` |
-| Faiza | `faiza` |
-| Teabot | `teabot` |
-| Finn | `finn` |
-| Electra | `electra` |
-| Hammy-Bee | `hammybee` |
-| Pixel Jake | `pixeljake` |
-| Ballerina Tricky | `ballerinatricky` |
-| Guard King | `guardking` |
-| Riley | `riley` |
-| Lily | `lily` |
-| Rudy Rascal | `rudyrascal` |
-| Ventura | `ventura` |
-| Glorgalax | `glorgalax` |
-| Hélène | `helene` |
-| Leo | `leo` |
-| Ozzy | `ozzy` |
-| Pins | `pins` |
-| Audrey | `audrey` |
-| Billy Bean | `billybean` |
-| Ruhi | `ruhi` |
-| Kedi | `kedi` |
-| Dr. Flyman | `drflyman` |
-| Pumpkin Pete | `pumpkinpete` |
-| Logan | `logan` |
-| Ginger | `ginger` |
-| Leif | `leif` |
-| Sindri | `sindri` |
-| Demi Lovato | `demi` |
-| Snowy | `snowy` |
-| Grand Juke | `grandjuke` |
-| Snake | `snake` |
-| Tang Yuan | `tangyuan` |
-| Valentina | `valentina` |
-| Kaleo | `kaleo` |
-| Rebeca Roar | `rebecaroar` |
-| Gabriel | `gabriel` |
-| Dinorange | `dinorange` |
-| Rocky | `rocky` |
-| Rani | `rani` |
-| Chicken Jake | `chickenjake` |
-| Mallard Tricky | `mallardtricky` |
-| Finlay | `finlay` |
-| Ribbon | `ribbon` |
-| Oni Hime | `oniHime` |
-| Saru | `saru` |
-| LOC | `loc` |
-| Stevie | `stevie` |
-| Berta | `berta` |
-| Costa | `costa` |
-| Yutani Tree Frog | `yutaniTreeFrog` |
-| Rochelle Rebelle | `rochelleRebelle` |
-| Asher | `asher` |
-| White Rabbit | `whiteRabbit` |
-| Peter | `peter` |
-| Tara | `tara` |
-| Henry | `henry` |
-| Sunny | `sunny` |
-| 8 Ball Jake | `eightBallJake` |
-| Piper | `bsElegantGirl` |
-| El Primo | `bsToughGuy` |
-| Spike | `spike` |
-| Dynamike | `bsBeardedGuy` |
-| Poco | `bsSkullGuy` |
-| Max | `bsFastGirl` |
-| Alma Brava | `almaBrava` |
-| Mateo | `mateo` |
-| Crewmate Jake | `amongUsRed` |
-| Crewmate Tricky | `amongUsYellow` |
-| Crewmate Spike | `amongUsBlack` |
-| Crewmate King | `amongUsCyan` |
-| Crewmate Tasha | `amongUsRose` |
-| Crewmate Guard | `amongUsGreen` |
-| Joo Won | `jooWon` |
-| Si Woo | `siWoo` |
-| Mr. Gobbles | `mrGobbles` |
-| Rosie | `rosie` |
-| Ballerina Latticina | `ballerinaLatticina` |
-| Frank Noir | `frankNoir` |
-| Holly | `holly` |
-| Sean Snow | `seanSnow` |
-| Mia | `mia` |
-| Rosalita | `rosalita` |
-| Lorcan | `lorcan` |
-| Horse | `horse` |
-| Vittorio | `vittorio` |
-| Enzo | `enzo` |
-| Sprinkle | `sprinkle` |
-| Bunny Betty | `bunnyBetty` |
-| Tsuki Chan | `tsukiChan` |
-| Kaito | `kaito` |
-| Toaxx | None |
-| Ratak | None |
-| Red | None |
-| Chuck | None |
+| Monkbot | `festiveFreshFreshSnowOutfit` |
+| Ming | `monkbot` |
+| Liu | `ming` |
+| Callum | `liu` |
+| Jack | `callum` |
+| Tom(Tom Brady) | `jack` |
+| Dak(Dak Prescott) | `nflpaTomBrady` |
+| Lamar(Lamar Jackson) | `nflpaDakPrescott` |
+| Saquon(Saquon Barkley) | `nflpaLamarJackson` |
+| Patrick(Patrick Mahomes) | `nflpaSaquonBarkley` |
+| Odell(Odell Beckham Jr.) | `nflpaPatrickMahomes` |
+| Tankbot | `nflpaOdellBeckhamJr` |
+| Cathy | `tankbot` |
+| Noel | `cathy` |
+| Morgan | `noel` |
+| Andy | `morgan` |
+| Festive Jake | `andy` |
+| Festive Tricky | `festiveJake` |
+| Festive Yutani | `festiveJakeJesterJakeOutfit` |
+| Festive Spike | `festiveTricky` |
+| Festive Frank | `festiveTrickyCandyBonesOutfit` |
+| Frankette | `festiveTrickyEndearingTrickyOutfit` |
+| Spacebot | `festiveYutani` |
+| Rat | `festiveYutaniGiftGrifterOutfit` |
+| Ox | `festiveSpike` |
+| Qin | `festiveFrank` |
+| Hou | `frankette` |
+| Zayn | `spacebot` |
+| Darryl | `rat` |
+| Lana | `ox` |
+| Bonnie | `qin` |
+| Buzz | `hou` |
+| Trym | `zayn` |
+| Pride Jake | `darryl` |
+| Pride Tricky | `lana` |
+| Pride Fresh | `bonnie` |
+| Pride Yutani | `bonnieThumperOutfit` |
+| Pride Spike | `buzz` |
+| Pride Frank | `trym` |
+| Pridebot | `prideJake` |
+| Alexandre | `prideTricky` |
+| Parkour Rin | `prideFresh` |
+| Akira | `prideYutani` |
+| Koral | `prideSpike` |
+| Cleo | `prideFrank` |
+| Taha | `prideBot` |
+| Bob The Blob | `alexandre` |
+| Mala | `parkourRin` |
+| Phoenix | `akira` |
+| Clementine | `koral` |
+| Gingerbot | `cleo` |
+| Hasina | `taha` |
+| Tiger | `bobTheBlob` |
+| Charlie | `mala` |
+| Pink | `phoenix` |
+| George | `clementine` |
+| Dummy | `gingerbot` |
+| Super Runner Jake | `hasina` |
+| Super Runner Tricky | `tiger` |
+| Pride Miss Maia | `charlie` |
+| Super Runner Fresh | `pink` |
+| Super Runner Yutani | `george` |
+| The Burger King | `dummy` |
+| Moira | `superRunnerJake` |
+| Zi Hao | `superRunnerTricky` |
+| Alia | `prideMissMaia` |
+| Fantasma | `superRunnerFresh` |
+| Song Yi | `superRunnerYutani` |
+| Super Runner Fernando | `theBurgerKing` |
+| Elf Jake | `moira` |
+| Elf Fresh | `zihao` |
+| Elf Yutani | `alia` |
+| Rabbit | `fantasma` |
+| Soul | `fantasmaCarnavalOutfit` |
+| Tutti | `songYi` |
+| Frutti | `fernando` |
+| Spraybot | `elfJake` |
+| Catrine | `elfFresh` |
+| Rain | `elfYutani` |
+| Alfie | `rabbit` |
+| Bruno | `soul` |
+| Tainá | `soulSirEasterOutfit` |
+| Yutani Harlequin Toad | `tutti` |
+| Yuto | `frutti` |
+| Hali | `spraybot` |
+| Thursday | `catrine` |
+| Outatime Jake | `rain` |
+| Ji-Yeong | `alfie` |
+| J Balvin | `bruno` |
+| Vivienne | `taina` |
+| Lawrence | `yutaniHarlequinToad` |
+| Clockwork Johnny | `yuto` |
+| Captain Flash | `yutoRockOutOutfit` |
+| Skye | `hali` |
+| Thunder | `haliGummyBearOutfit` |
+| Azura | `thursday` |
+| Dragon | `outatimeJake` |
+| Astra | `jiYeong` |
+| Stella | `musician` |
+| Lucky | `vivienne` |
+| Meggan | `vivienneNightHecateOutfit` |
+| Red Panda | `lawrence` |
+| Hamza | `clockworkJohnny` |
+| Faiza | `captainFlash` |
+| Teabot | `skye` |
+| Finn | `thunder` |
+| Electra | `thunderUrbanHeroOutfit` |
+| Hammy-Bee | `azura` |
+| Pixel Jake | `dragonyear` |
+| Ballerina Tricky | `astra` |
+| Guard King | `stella` |
+| Riley | `stellaColorFeverOutfit` |
+| Lily | `lucky` |
+| Rudy Rascal | `luckyHaengUnOutfit` |
+| Ventura | `meggan` |
+| Glorgalax | `redpanda` |
+| Hélène | `hamza` |
+| Leo | `faiza` |
+| Ozzy | `teabot` |
+| Pins | `finn` |
+| Audrey | `electra` |
+| Billy Bean | `hammybee` |
+| Ruhi | `pixeljake` |
+| Kedi | `ballerinatricky` |
+| Dr. Flyman | `guardking` |
+| Pumpkin Pete | `riley` |
+| Logan | `lily` |
+| Ginger | `rudyrascal` |
+| Leif | `ventura` |
+| Sindri | `glorgalax` |
+| Demi Lovato | `helene` |
+| Snowy | `leo` |
+| Grand Juke | `ozzy` |
+| Snake | `pins` |
+| Tang Yuan | `audrey` |
+| Valentina | `billybean` |
+| Kaleo | `ruhi` |
+| Rebeca Roar | `kedi` |
+| Gabriel | `drflyman` |
+| Dinorange | `pumpkinpete` |
+| Rocky | `logan` |
+| Rani | `ginger` |
+| Chicken Jake | `leif` |
+| Mallard Tricky | `sindri` |
+| Finlay | `demi` |
+| Ribbon | `snowy` |
+| Oni Hime | `grandjuke` |
+| Saru | `snake` |
+| LOC | `tangyuan` |
+| Stevie | `valentina` |
+| Berta | `valentinaPinkAphroditeOutfit` |
+| Costa | `kaleo` |
+| Yutani Tree Frog | `kaleoKissKissOutfit` |
+| Rochelle Rebelle | `rebecaroar` |
+| Asher | `gabriel` |
+| White Rabbit | `gabrielRadInRedOutfit` |
+| Peter | `dinorange` |
+| Tara | `rocky` |
+| Henry | `rani` |
+| Sunny | `raniUrbanVibesOutfit` |
+| 8 Ball Jake | `chickenjake` |
+| Piper | `mallardtricky` |
+| El Primo | `finlay` |
+| Spike | `finlayMerrymakerOutfit` |
+| Dynamike | `ribbon` |
+| Poco | `oniHime` |
+| Max | `saru` |
+| Alma Brava | `saruKyaputenOutfit` |
+| Mateo | `loc` |
+| Crewmate Jake | `stevie` |
+| Crewmate Tricky | `stevieHitchhikerOutfit` |
+| Crewmate Spike | `berta` |
+| Crewmate King | `bertaSummerEleganzaOutfit` |
+| Crewmate Tasha | `costa` |
+| Crewmate Guard | `yutaniTreeFrog` |
+| Joo Won | `rochelleRebelle` |
+| Si Woo | `asher` |
+| Mr. Gobbles | `asherSplasherOutfit` |
+| Rosie | `whiteRabbit` |
+| Ballerina Latticina | `peter` |
+| Frank Noir | `peterBunAndRunOutfit` |
+| Holly | `tara` |
+| Sean Snow | `henry` |
+| Mia | `henrySportySundayOutfit` |
+| Rosalita | `sunny` |
+| Lorcan | `eightBallJake` |
+| Horse | `bsElegantGirl` |
+| Vittorio | `bsToughGuy` |
+| Enzo | `spike` |
+| Sprinkle | `bsBeardedGuy` |
+| Bunny Betty | `bsSkullGuy` |
+| Tsuki Chan | `bsFastGirl` |
+| Kaito | `almaBrava` |
+| Toaxx | `mateo` |
+| Ratak | `mateoSantoCampoOutfit` |
+| Red | `amongUsRed` |
+| Chuck | `amongUsYellow` |
+| Golden Guardian | `amongUsBlack` |
+| Lestari | None |

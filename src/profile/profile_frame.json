@@ -67,28 +67,28 @@
         "id": "blob_frame",
         "isSeen": true
       },
-      "oxford_green_frame": {
-        "id": "oxford_green_frame",
-        "isSeen": true
-      },
       "koi_frame": {
         "id": "koi_frame",
+        "isSeen": true
+      },
+      "oxford_green_frame": {
+        "id": "oxford_green_frame",
         "isSeen": true
       },
       "oxford_red_frame": {
         "id": "oxford_red_frame",
         "isSeen": true
       },
-      "brawlstars_gems_frame": {
-        "id": "brawlstars_gems_frame",
+      "easter_frame": {
+        "id": "easter_frame",
         "isSeen": true
       },
       "birthday2024_frame": {
         "id": "birthday2024_frame",
         "isSeen": true
       },
-      "easter_frame": {
-        "id": "easter_frame",
+      "brawlstars_gems_frame": {
+        "id": "brawlstars_gems_frame",
         "isSeen": true
       },
       "collection_revamp_01_frame": {
@@ -155,6 +155,10 @@
         "id": "movieslate_frame",
         "isSeen": true
       },
+      "naturechampion_frame": {
+        "id": "naturechampion_frame",
+        "isSeen": true
+      },
       "pvp_leaderboard_01_frame": {
         "id": "pvp_leaderboard_01_frame",
         "isSeen": true
@@ -165,6 +169,10 @@
       },
       "pvp_leaderboard_03_frame": {
         "id": "pvp_leaderboard_03_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_04_frame": {
+        "id": "pvp_leaderboard_04_frame",
         "isSeen": true
       },
       "stpatrick_frame": {

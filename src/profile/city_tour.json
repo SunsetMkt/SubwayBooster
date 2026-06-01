@@ -3,6 +3,125 @@
   "data": {
     "lastSaved": "1970-01-01T00:00:00Z",
     "cityTourInstances": {},
-    "completedCityTours": []
+    "completedCityTours": [],
+    "activeGauntletInstance": {
+      "id": "s119_GauntletSoda_1",
+      "tiers": [
+        {
+          "claimed": true,
+          "goal": 5,
+          "reward": {
+            "reward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 1000
+            }
+          }
+        },
+        {
+          "claimed": true,
+          "goal": 5,
+          "reward": {
+            "reward": {
+              "type": "LootBox",
+              "id": "mystery_box",
+              "value": 1
+            }
+          }
+        },
+        {
+          "claimed": true,
+          "goal": 5,
+          "reward": {
+            "reward": {
+              "type": "Currency",
+              "id": "Hoverboards",
+              "value": 2
+            }
+          }
+        },
+        {
+          "claimed": true,
+          "goal": 10,
+          "reward": {
+            "reward": {
+              "type": "Currency",
+              "id": "ScoreBoosters",
+              "value": 2
+            }
+          }
+        },
+        {
+          "claimed": true,
+          "goal": 10,
+          "reward": {
+            "reward": {
+              "type": "Currency",
+              "id": "HeadStarts",
+              "value": 2
+            }
+          }
+        },
+        {
+          "claimed": true,
+          "goal": 10,
+          "reward": {
+            "reward": {
+              "type": "LootBox",
+              "id": "super_mystery_box",
+              "value": 1
+            }
+          }
+        },
+        {
+          "claimed": true,
+          "goal": 10,
+          "reward": {
+            "reward": {
+              "type": "Currency",
+              "id": "Coins",
+              "value": 5000
+            }
+          }
+        },
+        {
+          "claimed": true,
+          "goal": 15,
+          "reward": {
+            "reward": {
+              "type": "Currency",
+              "id": "Keys",
+              "value": 3
+            }
+          }
+        },
+        {
+          "claimed": true,
+          "goal": 15,
+          "reward": {
+            "reward": {
+              "type": "LootBox",
+              "id": "super_mystery_box",
+              "value": 1
+            }
+          }
+        },
+        {
+          "claimed": true,
+          "goal": 20,
+          "reward": {
+            "reward": {
+              "type": "ProfileFrame",
+              "id": "naturechampion_frame",
+              "value": 1
+            }
+          }
+        }
+      ],
+      "endDate": "2026-05-18T00:00:00Z",
+      "startDate": "2026-05-17T16:11:00Z",
+      "hasSeenInfo": true
+    },
+    "completedGauntlets": []
   }
 }

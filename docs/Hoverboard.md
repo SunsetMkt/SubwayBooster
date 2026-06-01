@@ -7,29 +7,22 @@
 | Big Kahuna | `bigKahuna` |
 | Bouncer | `bouncer` |
 | Lowrider | `lowrider` |
-| Sunset | `sunset` |
+| Liberty | `liberty` |
+| Sunset(formerly known asMiami) | `sunset` |
 | Monster | `monster` |
 | Skull Fire | `skullFire` |
+| Toucan | `toucan` |
 | Lumberjack | `lumberjack` |
 | Daredevil | `daredevil` |
-| Scoot | `scoot` |
-| Great White | `greatWhite` |
-| Hot Rod | `hotrod` |
-| Windglider | `windglider` |
-| Teleporter | `teleporter` |
-| Wild Style | `sakarWildStyle` |
-| Surf & Spray | `sakarSurfSpray` |
-| Crew | `sakarCrew` |
-| Crew Crush | `sakarCrewCrush` |
-| Blue Ice | `sakarBlueIce` |
-| Liberty | `liberty` |
-| Toucan | `toucan` |
 | Kick-Off | `kickOff` |
 | Chicky | `chicky` |
+| Scoot | `scoot` |
 | Outback | `outback` |
+| Great White | `greatWhite` |
 | Cherry | `cherry` |
 | Kitty | `kitty` |
 | Flamingo | `flamingo` |
+| Hot Rod | `hotrod` |
 | Rose | `rose` |
 | Panda | `panda` |
 | Dragon | `dragon` |
@@ -41,7 +34,9 @@
 | Bubblegum | `bubblegum` |
 | Prickly | `prickly` |
 | Moose | `moose` |
+| Windglider | `windglider` |
 | Banana | `banana` |
+| Teleporter | `teleporter` |
 | Cruiser | `cruiser` |
 | Croc | `croc` |
 | Turtle | `turtle` |
@@ -72,9 +67,9 @@
 | Pedal | `pedal` |
 | Jewelled | `jewelled` |
 | Speeder | `speeder` |
-| Ukulele | `ukulele` |
+| Ukelele | `ukulele` |
 | Hammer | `hammer` |
-| 8th Birthday | `birthday` |
+| 8th Birthday(formerly known asBirthday) | `birthday` |
 | Cobra | `cobra` |
 | Rickshaw | `rickshaw` |
 | Mosaic | `mosaic` |
@@ -120,6 +115,11 @@
 | Barkley | `nflpaBarkley` |
 | Goat | `goat` |
 | Beelzebook | `beelzebook` |
+| Crew | `sakarCrew` |
+| Surf & Spray | `sakarSurfSpray` |
+| Wild Style | `sakarWildStyle` |
+| Crew Crush | `sakarCrewCrush` |
+| Blue Ice | `sakarBlueIce` |
 | Secret Society | `secretSociety` |
 | Endeavour | `endeavour` |
 | Discovery | `discovery` |
@@ -170,6 +170,7 @@
 | Tagger | `tagger` |
 | Danger Dasher | `dangerdasher` |
 | 11th Birthday | `birthday2023` |
+| Flying Horse | `flyingHorse` |
 | Color Shift | `colourshift` |
 | Big Boss Board | `bigBoss` |
 | Future Wave | `futureWave` |
@@ -177,52 +178,51 @@
 | Kite | `kite` |
 | Sweet Chili | `sweetchili` |
 | Rave Rider | `raveRider` |
-| Flying Horse | `flyingHorse` |
 | Flaming Doll | `flamingdoll` |
 | Back to the Future | `backtothefuture` |
 | K-Dillac | `kdillac` |
-| Superstar | `energy` |
+| Superstar(formely known asSuperstar Board) | `energy` |
 | Retro Orange | `retroorange` |
 | Neo-Seoul | `neoseoul` |
 | Sharpeed | `sharpeed` |
 | Fauxpunx | `fauxpunx` |
-| Wind-Up Rocket | `winduprocket` |
 | Flash Jet | `flashjet` |
+| Wind-Up Rocket | `winduprocket` |
 | Snow Down | `snowdown` |
-| Skyrocket | `skyrocket` |
-| Electro Shock | `electroshock` |
 | Bada-Bomb | `badabomb` |
-| Roaring Heart | `roaringheart` |
-| Lunar Scroll | `lunarscroll` |
-| Red Velvet | `redvelvet` |
+| Electro Shock | `electroshock` |
+| Skyrocket | `skyrocket` |
 | Confetti Crush | `confetticrush` |
-| Astro Tune | `astrotune` |
+| Lunar Scroll | `lunarscroll` |
+| Roaring Heart | `roaringheart` |
+| Red Velvet | `redvelvet` |
 | Interstellar | `interstellar` |
+| Astro Tune | `astrotune` |
 | Shamrock Shebang | `shamrockshebang` |
 | Megga Bite | `meggabite` |
 | Fast and Festive | `fastandfestive` |
-| Radiant Rider | `radiantrider` |
 | Jak | `jak` |
 | Tea Timer | `teatimer` |
 | Deli-Vroom | `delivroom` |
+| Radiant Rider | `radiantrider` |
 | Jelly Board | `jellyboard` |
 | Yellow Sub | `yellowsub` |
 | Koinobori | `koinobori` |
+| 12th Birthday | `birthday2024` |
 | Mayo Mania | `mayomania` |
 | Pixel Hoverboard | `pixelhoverboard` |
 | Street Grace | `streetgrace` |
-| 12th Birthday | `birthday2024` |
 | Alarm On | `alarmon` |
-| Laser Flip | `laserflip` |
 | Rock n' Riley | `rocknriley` |
 | Sunny Sailor | `sunnysailor` |
+| Laser Flip | `laserflip` |
 | Standing Ovation | `standingovation` |
 | Risky Ride | `riskyride` |
 | Glarx 3000 | `glarx3000` |
-| Sporty Summer | `sportysummer` |
 | Heavy Metal | `heavymetal` |
 | Champ | `champ` |
 | Arrow | `arrow` |
+| Sporty Summer | `sportysummer` |
 | Raggedy Runner | `raggedyrunner` |
 | Turbo Stump | `turbostump` |
 | Brass Whizz | `brasswhizz` |
@@ -318,3 +318,10 @@
 | Fast Fur-ward | `fastFurward` |
 | Cathletic Ride | `cathleticRide` |
 | Fox Trotter | `foxTrotter` |
+| Sewer Surfer | `sewerSurfer` |
+| Rat Trap | `ratTrap` |
+| 14th Birthday | `14thBirthday` |
+| Bomb-Bastic | `bombBastic` |
+| Temple Rush | None |
+| Firefly 5 | None |
+| Bloom Boom | None |

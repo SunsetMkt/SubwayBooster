@@ -67,6 +67,10 @@
         "id": "ventura_default_portrait",
         "isSeen": true
       },
+      "goldenguardian_graffiti_portrait": {
+        "id": "goldenguardian_graffiti_portrait",
+        "isSeen": true
+      },
       "tricky_graffiti_portrait": {
         "id": "tricky_graffiti_portrait",
         "isSeen": true
@@ -271,6 +275,10 @@
         "id": "stevie_hitchhikeroutfit_illustration_portrait",
         "isSeen": true
       },
+      "tankbot_illustration_portrait": {
+        "id": "tankbot_illustration_portrait",
+        "isSeen": true
+      },
       "helene_illustration_portrait": {
         "id": "helene_illustration_portrait",
         "isSeen": true
@@ -373,6 +381,10 @@
       },
       "bstoughguy_illustration_portrait": {
         "id": "bstoughguy_illustration_portrait",
+        "isSeen": true
+      },
+      "callum_illustration_portrait": {
+        "id": "callum_illustration_portrait",
         "isSeen": true
       },
       "eightball_jake_illustration_portrait": {
