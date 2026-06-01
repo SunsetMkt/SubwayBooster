@@ -7,16 +7,45 @@ try:
     with open(input_file_path, "r", encoding="utf-8") as data_file:
         data = json.load(data_file)
 
-    city_tours = []
+    citytours_list = [tour for tour in data.get("cityTours", []) if tour]
 
-    for tourId in data:
-        if tourId:
-            city_tours.append(tourId)
+    gauntlets = data.get("gauntlets", [])
+    active_gauntlet = None
+
+    if gauntlets:
+        g = gauntlets[0]
+
+        active_gauntlet = {
+            "id": g.get("id"),
+            "tiers": [
+                {
+                    "claimed": True,
+                    "goal": tier.get("tokensRequired", 0),
+                    "reward": {
+                        "reward": {
+                            "type": (
+                                tier["reward"]["reward"]["type"]
+                                if "type" in tier["reward"]["reward"]
+                                else "Currency"
+                            ),
+                            "id": tier["reward"]["reward"]["id"],
+                            "value": tier["reward"]["reward"]["value"],
+                        }
+                    },
+                }
+                for tier in g.get("tiers", [])
+            ],
+            "endDate": "2026-05-18T00:00:00Z",
+            "startDate": "2026-05-17T16:11:00Z",
+            "hasSeenInfo": True,
+        }
 
     final_data = {
         "lastSaved": "1970-01-01T00:00:00Z",
         "cityTourInstances": {},
-        "completedCityTours": city_tours,
+        "completedCityTours": citytours_list,
+        "activeGauntletInstance": active_gauntlet if active_gauntlet else {},
+        "completedGauntlets": [],
     }
 
     output_data = {"version": 1, "data": final_data}
