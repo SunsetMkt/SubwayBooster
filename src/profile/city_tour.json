@@ -5,7 +5,7 @@
     "cityTourInstances": {},
     "completedCityTours": [],
     "activeGauntletInstance": {
-      "id": "s119_GauntletSoda_1",
+      "id": "s120_GauntletFootball_1",
       "tiers": [
         {
           "claimed": true,
@@ -23,9 +23,9 @@
           "goal": 5,
           "reward": {
             "reward": {
-              "type": "LootBox",
-              "id": "mystery_box",
-              "value": 1
+              "type": "Currency",
+              "id": "HeadStarts",
+              "value": 2
             }
           }
         },
@@ -58,7 +58,7 @@
             "reward": {
               "type": "Currency",
               "id": "HeadStarts",
-              "value": 2
+              "value": 3
             }
           }
         },
@@ -67,9 +67,9 @@
           "goal": 10,
           "reward": {
             "reward": {
-              "type": "LootBox",
-              "id": "super_mystery_box",
-              "value": 1
+              "type": "Currency",
+              "id": "Hoverboards",
+              "value": 3
             }
           }
         },
@@ -100,9 +100,9 @@
           "goal": 15,
           "reward": {
             "reward": {
-              "type": "LootBox",
-              "id": "super_mystery_box",
-              "value": 1
+              "type": "Currency",
+              "id": "ScoreBoosters",
+              "value": 3
             }
           }
         },
@@ -112,7 +112,7 @@
           "reward": {
             "reward": {
               "type": "ProfileFrame",
-              "id": "naturechampion_frame",
+              "id": "midsummer_frame",
               "value": 1
             }
           }

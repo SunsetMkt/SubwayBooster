@@ -6,7 +6,7 @@
 | Yutani | `yutani` |
 | Spike | `bsPointyGuy` |
 | Frank | `frank` |
-| Ella(formerly known asFrizzy) | `ella` |
+| Ella | `ella` |
 | King | `king` |
 | Ninja | `ninja` |
 | Lucy | `lucy` |
@@ -87,12 +87,12 @@
 | Liu | `ming` |
 | Callum | `liu` |
 | Jack | `callum` |
-| Tom(Tom Brady) | `jack` |
-| Dak(Dak Prescott) | `nflpaTomBrady` |
-| Lamar(Lamar Jackson) | `nflpaDakPrescott` |
-| Saquon(Saquon Barkley) | `nflpaLamarJackson` |
-| Patrick(Patrick Mahomes) | `nflpaSaquonBarkley` |
-| Odell(Odell Beckham Jr.) | `nflpaPatrickMahomes` |
+| Tom | `jack` |
+| Dak | `nflpaTomBrady` |
+| Lamar | `nflpaDakPrescott` |
+| Saquon | `nflpaLamarJackson` |
+| Patrick | `nflpaSaquonBarkley` |
+| Odell | `nflpaPatrickMahomes` |
 | Tankbot | `nflpaOdellBeckhamJr` |
 | Cathy | `tankbot` |
 | Noel | `cathy` |
@@ -245,7 +245,7 @@
 | 8 Ball Jake | `chickenjake` |
 | Piper | `mallardtricky` |
 | El Primo | `finlay` |
-| Spike | `finlayMerrymakerOutfit` |
+| Spike (Brawl Stars) | `finlayMerrymakerOutfit` |
 | Dynamike | `ribbon` |
 | Poco | `oniHime` |
 | Max | `saru` |
@@ -280,4 +280,6 @@
 | Red | `amongUsRed` |
 | Chuck | `amongUsYellow` |
 | Golden Guardian | `amongUsBlack` |
-| Lestari | None |
+| Lestari | `amongUsCyan` |
+| Dan Under | `amongUsRose` |
+| Sandy | `amongUsGreen` |

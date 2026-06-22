@@ -8,7 +8,7 @@
 | Bouncer | `bouncer` |
 | Lowrider | `lowrider` |
 | Liberty | `liberty` |
-| Sunset(formerly known asMiami) | `sunset` |
+| Sunset | `sunset` |
 | Monster | `monster` |
 | Skull Fire | `skullFire` |
 | Toucan | `toucan` |
@@ -25,7 +25,7 @@
 | Hot Rod | `hotrod` |
 | Rose | `rose` |
 | Panda | `panda` |
-| Dragon | `dragon` |
+| Dragon (Hoverboard) | `dragon` |
 | Teddy | `teddy` |
 | Pumpkin | `pumpkin` |
 | Snowflake | `snowflake` |
@@ -67,9 +67,9 @@
 | Pedal | `pedal` |
 | Jewelled | `jewelled` |
 | Speeder | `speeder` |
-| Ukelele | `ukulele` |
+| Ukulele | `ukulele` |
 | Hammer | `hammer` |
-| 8th Birthday(formerly known asBirthday) | `birthday` |
+| 8th Birthday | `birthday` |
 | Cobra | `cobra` |
 | Rickshaw | `rickshaw` |
 | Mosaic | `mosaic` |
@@ -181,7 +181,7 @@
 | Flaming Doll | `flamingdoll` |
 | Back to the Future | `backtothefuture` |
 | K-Dillac | `kdillac` |
-| Superstar(formely known asSuperstar Board) | `energy` |
+| Superstar | `energy` |
 | Retro Orange | `retroorange` |
 | Neo-Seoul | `neoseoul` |
 | Sharpeed | `sharpeed` |
@@ -322,6 +322,9 @@
 | Rat Trap | `ratTrap` |
 | 14th Birthday | `14thBirthday` |
 | Bomb-Bastic | `bombBastic` |
-| Temple Rush | None |
-| Firefly 5 | None |
-| Bloom Boom | None |
+| Temple Rush | `templeRush` |
+| Firefly5 | `firefly5` |
+| Bloom Boom | `bloomBoom` |
+| Off-Road Ranger | None |
+| Bay Drifter | None |
+| Roo Rush | None |

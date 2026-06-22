@@ -10,28 +10,27 @@
       "BadgesOnboardingFromProfile"
     ],
     "lastSeenDailyEvent": "",
-    "newSeasonPopupShownForID": "season_S119",
+    "newSeasonPopupShownForID": "season_S120",
     "localMailsSeenEntries": {
-      "s119_bali_challenges": "1970-01-01T00:00:00Z",
-      "s119_bali_floorislava": "1970-01-01T00:00:00Z",
-      "s119_bali_kite": "1970-01-01T00:00:00Z",
-      "s119_bali_next_season": "1970-01-01T00:00:00Z",
-      "s119_bali_onerun": "1970-01-01T00:00:00Z",
-      "s119_bali_plantinvasion": "1970-01-01T00:00:00Z",
-      "s119_bali_quests": "1970-01-01T00:00:00Z",
-      "s119_bali_rainforest": "1970-01-01T00:00:00Z",
-      "s119_bali_mega": "1970-01-01T00:00:00Z",
-      "s119_bali_season_challenge": "1970-01-01T00:00:00Z",
-      "s119_bali_seasonhunt": "1970-01-01T00:00:00Z",
-      "s119_bali_showdown": "1970-01-01T00:00:00Z",
-      "s119_bali_soda_rush_1": "1970-01-01T00:00:00Z",
-      "s119_bali_soda_rush_2": "1970-01-01T00:00:00Z",
-      "s119_bali_soda_rush_3": "1970-01-01T00:00:00Z",
-      "s119_bali_surferpass": "1970-01-01T00:00:00Z",
-      "s119_bali_updateGame_amazon": "1970-01-01T00:00:00Z",
-      "s119_bali_updateGame_android": "1970-01-01T00:00:00Z",
-      "s119_bali_updateGame_ios": "1970-01-01T00:00:00Z",
-      "s119_bali_welcome": "1970-01-01T00:00:00Z"
+      "s120_sydney_4thofjuly": "1970-01-01T00:00:00Z",
+      "s120_sydney_challenges": "1970-01-01T00:00:00Z",
+      "s120_sydney_floorislava": "1970-01-01T00:00:00Z",
+      "s120_sydney_mega": "1970-01-01T00:00:00Z",
+      "s120_sydney_next_season": "1970-01-01T00:00:00Z",
+      "s120_sydney_onerun": "1970-01-01T00:00:00Z",
+      "s120_sydney_plantinvasion": "1970-01-01T00:00:00Z",
+      "s120_sydney_quests": "1970-01-01T00:00:00Z",
+      "s120_sydney_season_challenge": "1970-01-01T00:00:00Z",
+      "s120_sydney_seasonhunt": "1970-01-01T00:00:00Z",
+      "s120_sydney_showdown": "1970-01-01T00:00:00Z",
+      "s120_sydney_soda_rush_1": "1970-01-01T00:00:00Z",
+      "s120_sydney_soda_rush_2": "1970-01-01T00:00:00Z",
+      "s120_sydney_soda_rush_3": "1970-01-01T00:00:00Z",
+      "s120_sydney_surferpass": "1970-01-01T00:00:00Z",
+      "s120_sydney_updateGame_amazon": "1970-01-01T00:00:00Z",
+      "s120_sydney_updateGame_android": "1970-01-01T00:00:00Z",
+      "s120_sydney_updateGame_ios": "1970-01-01T00:00:00Z",
+      "s120_sydney_welcome": "1970-01-01T00:00:00Z"
     },
     "lastSeenTooltipIds": {
       "youGotMailTip": "1970-01-01T00:00:00Z"
@@ -74,22 +73,22 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S119_newStuff": {
+      "S120_newStuff": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S119_newStuff_season_pass": {
+      "S120_newStuff_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S119_crew_bonus": {
+      "S120_crew_bonus": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "S119_crew_bonus_season_pass": {
+      "S120_crew_bonus_season_pass": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
@@ -279,42 +278,52 @@
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "rainforest_alliance_bundle_promo": {
+      "danunder_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "goldenguardian_bundle_promo": {
+      "great_barrier_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "berta_deluxe_bundle_promo": {
+      "kedi_deluxe_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "underwater_tales_bundle_promo": {
+      "midsummer_queen_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "beachplease_bundle_promo": {
+      "star_spangled_bundle_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "eco_bundle_promo": {
+      "maui_legend_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "surf_as_yourself_promo": {
+      "miss_maias_pride_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true
       },
-      "running_together_promo": {
+      "high_score_horizons_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "sk8ter_boi_gurl_promo": {
+        "lastSeenTime": "1970-01-01T00:00:00Z",
+        "removeAtTime": "9999-12-31T00:00:00Z",
+        "opened": true
+      },
+      "baywatch_buddies_promo": {
         "lastSeenTime": "1970-01-01T00:00:00Z",
         "removeAtTime": "9999-12-31T00:00:00Z",
         "opened": true

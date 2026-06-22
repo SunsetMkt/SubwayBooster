@@ -303,6 +303,10 @@
         "id": "joowon_illustration_portrait",
         "isSeen": true
       },
+      "callum_illustration_portrait": {
+        "id": "callum_illustration_portrait",
+        "isSeen": true
+      },
       "frank_illustration_portrait": {
         "id": "frank_illustration_portrait",
         "isSeen": true
@@ -383,12 +387,16 @@
         "id": "bstoughguy_illustration_portrait",
         "isSeen": true
       },
-      "callum_illustration_portrait": {
-        "id": "callum_illustration_portrait",
+      "danunder_illustration_portrait": {
+        "id": "danunder_illustration_portrait",
         "isSeen": true
       },
       "eightball_jake_illustration_portrait": {
         "id": "eightball_jake_illustration_portrait",
+        "isSeen": true
+      },
+      "electra_graffiti_portrait": {
+        "id": "electra_graffiti_portrait",
         "isSeen": true
       },
       "mrgobbles_illustration_portrait": {

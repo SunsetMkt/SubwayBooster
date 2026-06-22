@@ -2716,6 +2716,9 @@
           "ownedOutfits": [
             {
               "value": "default"
+            },
+            {
+              "value": "kangarumiOutfit"
             }
           ]
         }
@@ -3755,6 +3758,29 @@
             },
             {
               "value": "hotSpotOutfit"
+            }
+          ]
+        }
+      },
+      "danUnder": {
+        "value": {
+          "id": "danUnder",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "sandy": {
+        "value": {
+          "id": "sandy",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "sinkOrSwimOutfit"
             }
           ]
         }

@@ -23,6 +23,10 @@
         "id": "candycane_frame",
         "isSeen": true
       },
+      "midsummer_frame": {
+        "id": "midsummer_frame",
+        "isSeen": true
+      },
       "earthday_frame": {
         "id": "earthday_frame",
         "isSeen": true
@@ -173,6 +177,10 @@
       },
       "pvp_leaderboard_04_frame": {
         "id": "pvp_leaderboard_04_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_05_frame": {
+        "id": "pvp_leaderboard_05_frame",
         "isSeen": true
       },
       "stpatrick_frame": {
