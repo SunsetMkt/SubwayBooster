@@ -31,6 +31,10 @@
         "id": "earthday_frame",
         "isSeen": true
       },
+      "football_frame": {
+        "id": "football_frame",
+        "isSeen": true
+      },
       "default_frame": {
         "id": "default_frame",
         "isSeen": true
@@ -181,6 +185,10 @@
       },
       "pvp_leaderboard_05_frame": {
         "id": "pvp_leaderboard_05_frame",
+        "isSeen": true
+      },
+      "pvp_leaderboard_06_frame": {
+        "id": "pvp_leaderboard_06_frame",
         "isSeen": true
       },
       "stpatrick_frame": {

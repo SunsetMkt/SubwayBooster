@@ -283,3 +283,5 @@
 | Lestari | `amongUsCyan` |
 | Dan Under | `amongUsRose` |
 | Sandy | `amongUsGreen` |
+| Marie Macaron | `jooWon` |
+| Pierre | None |

@@ -2391,6 +2391,9 @@
             },
             {
               "value": "lilImpOutfit"
+            },
+            {
+              "value": "jeudiOutfit"
             }
           ]
         }
@@ -3781,6 +3784,29 @@
             },
             {
               "value": "sinkOrSwimOutfit"
+            }
+          ]
+        }
+      },
+      "marieMacaron": {
+        "value": {
+          "id": "marieMacaron",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            }
+          ]
+        }
+      },
+      "pierre": {
+        "value": {
+          "id": "pierre",
+          "ownedOutfits": [
+            {
+              "value": "default"
+            },
+            {
+              "value": "bonVoyageOutfit"
             }
           ]
         }

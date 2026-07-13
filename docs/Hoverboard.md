@@ -325,6 +325,9 @@
 | Temple Rush | `templeRush` |
 | Firefly5 | `firefly5` |
 | Bloom Boom | `bloomBoom` |
-| Off-Road Ranger | None |
-| Bay Drifter | None |
-| Roo Rush | None |
+| Off-Road Ranger | `offRoadRanger` |
+| Bay Drifter | `bayDrifter` |
+| Roo Rush | `rooRush` |
+| Je T'aime | None |
+| Sweet Elite | None |
+| Yellow Fellow | None |
